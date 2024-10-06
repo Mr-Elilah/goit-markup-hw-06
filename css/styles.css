@@ -598,9 +598,9 @@ p {
 
   .features-list-title {
     font-weight: 500;
-
     font-size: 20px;
     line-height: 1.2;
+    margin-bottom: 8px;
   }
   .features-list-text {
     font-weight: 400;
